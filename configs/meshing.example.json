@@ -1,0 +1,8 @@
+{
+  "version": "25.2",
+  "mode": "meshing",
+  "dimension": 3,
+  "cores": 2,
+  "journal": "../inputs/meshing.jou",
+  "output_root": "../runs"
+}
