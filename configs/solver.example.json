@@ -1,0 +1,11 @@
+{
+  "version": "25.2",
+  "mode": "solver",
+  "dimension": 3,
+  "cores": 2,
+  "case": "../inputs/model.cas.h5",
+  "initialize": false,
+  "iterations": 0,
+  "output_root": "../runs",
+  "settings": {}
+}
