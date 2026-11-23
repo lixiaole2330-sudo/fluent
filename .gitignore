@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+runs/
+inputs/
+*.cas*
+*.dat*
+*.msh*
+*.trn
+server*.txt
+.env
